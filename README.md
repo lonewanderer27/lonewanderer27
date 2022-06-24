@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonewanderer27&label=Profile%20views&color=0e75b6&style=flat" alt="lonewanderer27" /> </p>
 
-- 🌱 I’m currently learning **various**
+- 🌱 I’m currently learning **Front-End development**
 
 - 👨‍💻 All of my projects are available at [https://lonewanderer27.github.io/projects](https://lonewanderer27.github.io/projects)
 
