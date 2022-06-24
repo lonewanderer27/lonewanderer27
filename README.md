@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hi 👋 I'm Jay! A 👨‍💻 Computer Science student in Adamson University 🇵🇭</div>  
+## <div align="center">Hi 👋 I'm Jay! A Computer Science 👨‍💻 student from Adamson University 🇵🇭</div>  
 
 #### <div align="center"> I aspire to be a Software Engineer 🚀</div>  
   
