@@ -19,6 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Reply to &quot;Should Old Friends and Days of Long Ago Should Be Forgotten?&quot;](http://localhost:4000/blog/reply-to-should-old-friends-and-days-of-long-ago-should-be-forgotten/)
+- [Setting up my first blog website](http://localhost:4000/blog/my-first-blog-post/)
+- [I&#39;m Gay. Nerd.](http://localhost:4000/blog/im-gay-nerd/)
+- [My Coming Out Story](http://localhost:4000/blog/my-coming-out-story/)
+- [Introducing The Coffee Lounge™](http://localhost:4000/blog/the-coffee-lounge/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
