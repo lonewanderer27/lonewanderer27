@@ -1,3 +1,4 @@
+![](NoManSkyWallpaper.webp)
 <h1 align="center">Hi 👋, I'm Adriane James. Jay for short</h1>
 <h3 align="center">An aspiring software engineer from Philippines!</h3>
 
