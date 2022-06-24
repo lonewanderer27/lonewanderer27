@@ -1,5 +1,5 @@
 <div align="center">
-<img src="http://u.cubeupload.com/Syzygos/NMSConceptArtWallpap.png" align="center" style="width: 100%" />
+<img src="NoManSkyWallpaper.webp" align="center" style="width: 100%" />
 </div>  
   
 
