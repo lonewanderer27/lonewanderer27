@@ -8,7 +8,7 @@
 #### <div align="center"> I aspire to be a Software Engineer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Camp Buddy Toolbox](https://github.com/lonewanderer27/Camp-Buddy-Toolbox)  
+- 🔭 I’m currently working on [JAMMA](https://github.com/lonewanderer27/JAMMA)  
   
 
 - 🌱 I’m currently learning C# and Java in Uni, while I learn Python and JavaScript in my free time  
