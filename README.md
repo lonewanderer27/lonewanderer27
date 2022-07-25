@@ -8,7 +8,7 @@
 #### <div align="center"> I aspire to be a Software Engineer 🚀</div>  
   
 
-- 🔭 I’m currently working on [JAMMA](https://github.com/lonewanderer27/JAMMA), an E-Commerce web app that runs as a Python Flask serverless app in Vercel.
+- 🔭 I’m currently working on [JAMMA](https://github.com/lonewanderer27/JAMMA), an E-Commerce platform that uses Flask, MongoDB and Redis and runs on Vercel as a serverless app.
   
 
 - 🌱 I’m currently learning C# and Java in Uni, while I learn Python, JavaScript and PHP in my free time. 
