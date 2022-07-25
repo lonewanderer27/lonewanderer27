@@ -8,25 +8,25 @@
 #### <div align="center"> I aspire to be a Software Engineer 🚀</div>  
   
 
-- 🔭 I’m currently working on [JAMMA](https://github.com/lonewanderer27/JAMMA)  
+- 🔭 I’m currently working on [JAMMA](https://github.com/lonewanderer27/JAMMA), an E-Commerce web app that runs as a Python Flask serverless app in Vercel.
   
 
-- 🌱 I’m currently learning C# and Java in Uni, while I learn Python and JavaScript in my free time  
+- 🌱 I’m currently learning C# and Java in Uni, while I learn Python, JavaScript and PHP in my free time. 
   
 
 - 👨‍💻 All of my projects are available at [https://lonewanderer27.github.io/projects](https://lonewanderer27.github.io/projects)  
   
 
-- 📝 I regularly write articles on [https://lonewanderer27.github.io/blog](https://lonewanderer27.github.io/blog)  
+- 📝 I write articles on [https://lonewanderer27.github.io/blog](https://lonewanderer27.github.io/blog)  
   
 
-- ❓ Ask me about anything related to Jekyll and Python related technologies!  
+- ❓ Ask me about anything programming related and the latest video games!  
   
 
 - ⚡ Fun fact: I use tabs over spaces and my comfort food is Fried Chicken  
   
 
-- 📒 Know about my experiences https://lonewanderer27.github.io/cv  
+- 📒 Know about my experiences https://lonewanderer27.github.io/cv  [Might be outdated]
   
 
 <br/>  
