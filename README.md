@@ -23,7 +23,7 @@
 - ❓ Ask me about anything programming related and the latest video games!  
   
 
-- ⚡ Fun fact: My MBTI is INFP and my Enneagram is 5w4
+- ⚡ Fun fact: My personality type is INFP 5w4
   
 
 - 📒 Know about my experiences https://lonewanderer27.github.io/cv  [Might be outdated]
