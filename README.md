@@ -23,7 +23,7 @@
 - ❓ Ask me about anything programming related and the latest video games!  
   
 
-- ⚡ Fun fact: I use tabs over spaces and my comfort food is Fried Chicken  
+- ⚡ Fun fact: My MBTI is INFP and my Enneagram is 5w4
   
 
 - 📒 Know about my experiences https://lonewanderer27.github.io/cv  [Might be outdated]
