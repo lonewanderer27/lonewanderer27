@@ -122,11 +122,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Pitfalls in Working as a First Time Freelancer](http://localhost:4000/blog/pitfalls-in-working-as-a-first-time-freelancer/)
 - [Reply to Should Old Friends and Days of Long Ago Should Be Forgotten?](http://localhost:4000/blog/reply-to-should-old-friends-and-days-of-long-ago-should-be-forgotten/)
 - [Making Camp Buddy Toolbox using PySimpleGUI](http://localhost:4000/blog/making-camp-buddy-toolbox-using-pysimplegui/)
 - [My Coming Out Story](http://localhost:4000/blog/my-coming-out-story/)
 - [I&#39;m Gay. Nerd.](http://localhost:4000/blog/im-gay-nerd/)
-- [Introducing The Coffee Lounge™](http://localhost:4000/blog/the-coffee-lounge/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
