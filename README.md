@@ -8,7 +8,7 @@
 #### <div align="center"> I aspire to be a Software Engineer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Lotto-Draw-Bot](https://github.com/lonewanderer27/Lotto-Draw-Bot), a facebook messenger bot that enables users to get the latest Philippine Lottery results. It also doubles as a RESTful API for anyone to use.
+- 🔭 I’m currently working on [Lotto-Draw-Bot](https://github.com/lonewanderer27/Lotto-Draw-Bot), a Facebook Messenger bot that enables users to get the latest Philippine Lottery results. It also doubles as a RESTful API for anyone to use.
   
 
 - 🌱 I’m currently learning C# and Java in Uni, while I learn Python, JavaScript and PHP in my free time. 
