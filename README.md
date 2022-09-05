@@ -8,7 +8,7 @@
 #### <div align="center"> I aspire to be a Software Engineer 🚀</div>  
   
 
-- 🔭 I’m currently working on [Lotto-Draw-Bot](https://github.com/lonewanderer27/Lotto-Draw-Bot), a Facebook Messenger bot that enables users to get the latest Philippine Lottery results. It also doubles as a RESTful API for anyone to use.
+- 🔭 I’m currently working on [H&F Commissions](https://github.com/lonewanderer27/h_and_f_commissions), the first React app that I made, serves as a website where commissions can be made.
   
 
 - 🌱 I’m currently learning C# and Java in Uni, while I learn Python, JavaScript and PHP in my free time. 
@@ -26,7 +26,7 @@
 - ⚡ Fun fact: My personality type is INFP 5w4
   
 
-- 📒 Know about my experiences https://lonewanderer27.github.io/cv  [Might be outdated]
+- 📒 Know about my experiences https://lonewanderer27.github.io/cv  [Outdated, will update soon]
   
 
 <br/>  
