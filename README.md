@@ -118,11 +118,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewanderer27&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
