@@ -10,10 +10,19 @@
   
 
 - 🌱 I’m currently learning Ionic React and Mongo DB  
-  
+
 
 - ❓ Ask me about anything related to Python Web Stack & MERN stack   
-  
+
+
+- 👨‍💻 All of my projects are available at [https://lonewanderer27.github.io/projects](https://lonewanderer27.github.io/projects)
+
+
+- 📒 Know about my experiences https://lonewanderer27.github.io/cv  [Outdated, will update soon]
+
+
+- 📝 I write articles on [https://lonewanderer27.github.io/blog](https://lonewanderer27.github.io/blog) 
+
 
 - ⚡ Fun fact: My personality type is INFP 5w4  
   
