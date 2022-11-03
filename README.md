@@ -103,7 +103,7 @@
 <a href="https://www.facebook.com/jayayayayay" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCzfuLQUiIMkUxse9qlJio1w" target="_blank">
+<a href="https://www.youtube.com/channel/UCzfuLQUiIMkUxse9qlJio1w" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/jay27_2" target="_blank">
