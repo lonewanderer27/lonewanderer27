@@ -122,16 +122,13 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewanderer27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
   <br/>
-  <br/>
 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lonewanderer27)](https://github.com/anuraghazra/github-readme-stats)
   
-  <br/>
   <br/>
   
   <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-  <br/>
   <br/>
 
   <img src="https://komarev.com/ghpvc/?username=lonewanderer27&&style=flat-square" align="center" />
