@@ -118,6 +118,8 @@
 ## Github Stats  
 <div align="center">
 
+  <br/>
+
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lonewanderer27)](https://github.com/anuraghazra/github-readme-stats)
 
   <img src="https://github-readme-stats.vercel.app/api?username=lonewanderer27&show_icons=true&count_private=true&hide_border=true" align="center" />
