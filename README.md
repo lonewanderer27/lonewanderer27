@@ -119,17 +119,22 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lonewanderer27&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewanderer27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewanderer27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
-<br/>  
+  <br/>
+  <br/>
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <br/>
+  <br/>
+  
+  <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-<br/>  
+  <br/>
+  <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lonewanderer27&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=lonewanderer27&&style=flat-square" align="center" />
 </div>  
   
 
