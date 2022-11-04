@@ -117,31 +117,21 @@
 
 ## Github Stats  
 <div align="center">
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lonewanderer27)](https://github.com/anuraghazra/github-readme-stats)
+
   <img src="https://github-readme-stats.vercel.app/api?username=lonewanderer27&show_icons=true&count_private=true&hide_border=true" align="center" />
+
+  <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewanderer27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
   <br/>
-
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lonewanderer27)](https://github.com/anuraghazra/github-readme-stats)
   
-  <br/>
-  
-  <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-  <br/>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ru1ffp1a9hnrfzza8c56we2am&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
   <img src="https://komarev.com/ghpvc/?username=lonewanderer27&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
