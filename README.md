@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Ionic React and Mongo DB  
 
 
-- ❓ Ask me about anything related to Python Web Stack & MERN stack   
+- ❓ Ask me about anything related to MERN stack and Python!   
 
 
 - 👨‍💻 All of my projects are available at [https://lonewanderer27.github.io/projects](https://lonewanderer27.github.io/projects)
