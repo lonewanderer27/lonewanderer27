@@ -15,13 +15,13 @@
 - ❓ Ask me about anything related to MERN stack and Python!   
 
 
-- 👨‍💻 All of my projects are available at [https://lonewanderer27.github.io/portfolio](https://lonewanderer27.github.io/projects)
+- 👨‍💻 All of my projects are available at [https://jay.thedev.id/portfolio](https://jay.thedev.id/projects)
 
 
-- 📒 Know about my experiences https://lonewanderer27.github.io/resume
+- 📒 Know about my experiences https://jay.thedev.id/resume
 
 
-- 📝 I write articles on [https://lonewanderer27.github.io/blog](https://lonewanderer27.github.io/blog) 
+- 📝 I write articles on [https://jay.thedev.id/blog](https://jay.thedev.id/blog) 
 
 
 - ⚡ Fun fact: My personality type is INFP 5w4  
