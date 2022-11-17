@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jay, an aspiring full-stack web developer 👨‍💻 currently studying at Adamson University 🚀</div>  
+### <div align="center">I'm Jay, Front-End Web Developer 👨‍💻 currently studying at Adamson University 🚀</div>  
   
 
 - 🔭 I’m currently working on my [Portfolio](https://github.com/lonewanderer27/lonewanderer27.github.io)!  
@@ -15,10 +15,10 @@
 - ❓ Ask me about anything related to MERN stack and Python!   
 
 
-- 👨‍💻 All of my projects are available at [https://lonewanderer27.github.io/projects](https://lonewanderer27.github.io/projects)
+- 👨‍💻 All of my projects are available at [https://lonewanderer27.github.io/portfolio](https://lonewanderer27.github.io/projects)
 
 
-- 📒 Know about my experiences https://lonewanderer27.github.io/cv  [Outdated, will update soon]
+- 📒 Know about my experiences https://lonewanderer27.github.io/resume  [Outdated, will update soon]
 
 
 - 📝 I write articles on [https://lonewanderer27.github.io/blog](https://lonewanderer27.github.io/blog) 
