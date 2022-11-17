@@ -18,7 +18,7 @@
 - 👨‍💻 All of my projects are available at [https://lonewanderer27.github.io/portfolio](https://lonewanderer27.github.io/projects)
 
 
-- 📒 Know about my experiences https://lonewanderer27.github.io/resume  [Outdated, will update soon]
+- 📒 Know about my experiences https://lonewanderer27.github.io/resume
 
 
 - 📝 I write articles on [https://lonewanderer27.github.io/blog](https://lonewanderer27.github.io/blog) 
