@@ -6,13 +6,13 @@
 ### <div align="center">I'm Jay, Front-End Web Developer 👨‍💻 currently studying at Adamson University 🚀</div>  
   
 
-- 🔭 I’m currently working on my [Portfolio](https://github.com/lonewanderer27/lonewanderer27.github.io)!  
+- 🔭 I’m currently working on [The Coffee Lounge](https://github.com/The-Coffee-Lounge/The-Coffee-Lounge-App)!  
   
 
-- 🌱 I’m currently learning Ionic React and Mongo DB  
+- 🌱 I’m currently learning Ionic React and Supabase  
 
 
-- ❓ Ask me about anything related to MERN stack and Python!   
+- ❓ Ask me about anything related to React and Python!   
 
 
 - 👨‍💻 All of my projects are available at [https://jay.thedev.id/portfolio](https://jay.thedev.id/projects)
@@ -24,7 +24,7 @@
 - 📝 I write articles on [https://jay.thedev.id/blog](https://jay.thedev.id/blog) 
 
 
-- ⚡ Fun fact: My personality type is ENFP 5w4  
+- ⚡ Fun fact: My personality type is ENFJ 5w4  
   
 
 <br/>  
