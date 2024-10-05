@@ -130,7 +130,7 @@
 
   <br/>
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ru1ffp1a9hnrfzza8c56we2am&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ru1ffp1a9hnrfzza8c56we2am&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
   <img src="https://komarev.com/ghpvc/?username=lonewanderer27&&style=flat-square" align="center" />
 </div>  
