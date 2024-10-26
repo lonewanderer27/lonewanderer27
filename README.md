@@ -24,7 +24,7 @@
 - 📝 I write articles on [https://jay.thedev.id/blog](https://jay.thedev.id/blog) 
 
 
-- ⚡ Fun fact: My personality type is ENFJ 5w4  
+- ⚡ Fun fact: My personality type is INFJ 2w3 
   
 
 <br/>  
