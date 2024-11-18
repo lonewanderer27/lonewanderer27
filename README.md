@@ -46,6 +46,8 @@
 <a href="https://www.ionicframework.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Tailwind CSS" height="50" /></a> 
+
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,6 +63,7 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/fastapi-icon-512x512-a7ggfxfw.png" alt="FastAPI" height="50" style="color: blue" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
@@ -88,9 +91,9 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/lonewanderer27" target="_blank">
+<!-- <a href="https://github.com/lonewanderer27" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <!-- <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> -->
@@ -103,9 +106,9 @@
 <a href="https://www.facebook.com/ianjms27" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCzfuLQUiIMkUxse9qlJio1w" target="_blank">
+<!-- <a href="https://www.youtube.com/channel/UCzfuLQUiIMkUxse9qlJio1w" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://instagram.com/_ianjms" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -124,13 +127,13 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=lonewanderer27&show_icons=true&count_private=true&hide_border=true" align="center" />
 
-  <br/>
+  <br/>  <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lonewanderer27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
   <br/>
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ru1ffp1a9hnrfzza8c56we2am&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001635.1b55ba2d2fe74e11995e8ea79622c7e3.1837)](https://github.com/rayriffy/apple-music-github-profile)
 
   <img src="https://komarev.com/ghpvc/?username=lonewanderer27&&style=flat-square" align="center" />
 </div>  
