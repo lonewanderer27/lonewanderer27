@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jay, Front-End Web Developer 👨‍💻 currently studying at Adamson University 🚀</div>  
+### <div align="center">I'm Jay, Full-Stack Web Developer 👨‍💻 currently studying at Adamson University 🚀</div>  
   
 
 - 🔭 I’m currently working on [The Coffee Lounge](https://github.com/The-Coffee-Lounge/The-Coffee-Lounge-App)!  
