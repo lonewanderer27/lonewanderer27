@@ -17,7 +17,7 @@
 </div>
 <br/>
 
-- 🔭 I’m currently working on [The Coffee Lounge](https://github.com/The-Coffee-Lounge/The-Coffee-Lounge-App)
+- 🔭 I’m currently working on [MyWorkCompanion](https://github.com/lonewanderer27/myworkcompanionapp)
 
 - 🌱 I’m currently learning Blazor.
 
