@@ -19,9 +19,9 @@
 
 - 🔭 I’m currently working on [MyWorkCompanion](https://github.com/lonewanderer27/myworkcompanionapp)
 
-- 🌱 I’m currently learning Blazor.
+- 🌱 I’m currently learning Flutter.
 
-- ❓ Ask me about anything related to React
+- ❓ Ask me about anything related to React.
 
 - 👨‍💻 All of my projects are available at [https://jay.thedev.id/portfolio](https://jay.thedev.id/projects)
 
