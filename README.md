@@ -134,7 +134,7 @@
 
 <br/>
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001635.1b55ba2d2fe74e11995e8ea79622c7e3.1837)](https://github.com/rayriffy/apple-music-github-profile)
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001635.1b55ba2d2fe74e11995e8ea79622c7e3.1837)](https://music-profile.rayriffy.com)
 
   <img src="https://komarev.com/ghpvc/?username=lonewanderer27&&style=flat-square" align="center" />
 </div>
